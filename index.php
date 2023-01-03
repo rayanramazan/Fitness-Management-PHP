@@ -92,6 +92,11 @@ include'include/config.php'; ?>
     .lg-row-inp button:hover{
         background-color: #ffbf1c;
     }
+
+
+    .toggleMenu {
+        height: 10px;
+    }
     </style>
 </body>
 </html>
