@@ -81,6 +81,7 @@ include'include/config.php'; ?>
         direction: rtl;
         outline: none;
     }
+    
     .lg-row-inp button{
         margin: 10px 0;
         height: 30px;
